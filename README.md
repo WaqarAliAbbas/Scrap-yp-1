@@ -4,5 +4,6 @@
 # pip install requests
 # pip install bs4
 # pip install colorama
+# git clone https://github.com/WaqarAliAbbas/Scrap-yp-1.git
 # cd Scrap-yp-1
 # python Yp-Data-Scraper.py
