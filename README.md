@@ -4,3 +4,5 @@
 # pip install requests
 # pip install bs4
 # pip install colorama
+# cd Scrap-yp-1
+# python Yp-Data-Scraper.py
