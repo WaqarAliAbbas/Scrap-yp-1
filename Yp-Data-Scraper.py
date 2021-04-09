@@ -6,9 +6,9 @@ from bs4 import BeautifulSoup
 from colorama import Fore,Back,Style
 import os
 os.system("clear")
-print(f"{Fore.WHITE}\n\n\n\n- DEVELOPER WAQAR ALI ABBAS")
-print(f"{Fore.CYAN}- DEVELOPER CONTACT: +92-3129704496")
-print(f'''{Fore.GREEN}
+print(f"{Fore.WHITE}\n\n- DEVELOPER WAQAR ALI ABBAS")
+print(f"{Fore.RED}----> DEVELOPER CONTACT: +92-3129704496 <----")
+print(f'''{Fore.CYAN}
 Fight With Bugs                 |     |
                                 \\_V_//
                                 \/=|=\/
@@ -31,7 +31,7 @@ Fight With Bugs                 |     |
  / / / .../|  |\... \ \ \    _[__]   [__]_
 / / /       \/       \ \ \  [____>   <____]
 ''')
-print(f"{Fore.GREEN}- YELLOW PAGES DATA SCRAPER TOOL")
+print(f"{Fore.GREEN}- \nYELLOW PAGES DATA SCRAPER TOOL")
 print(f"{Fore.RED}- PHANTOM LEGEND")
 print(f'''{Fore.YELLOW}
 ██╗    ██╗ █████╗  ██████╗  █████╗ ██████╗ 
