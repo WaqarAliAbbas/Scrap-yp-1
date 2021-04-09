@@ -8,6 +8,29 @@ import os
 os.system("clear")
 print(f"{Fore.WHITE}\n\n\n\n- DEVELOPER WAQAR ALI ABBAS")
 print(f"{Fore.CYAN}- DEVELOPER CONTACT: +92-3129704496")
+print(f'''{Fore.GREEN}
+Fight With Bugs                 |     |
+                                \\_V_//
+                                \/=|=\/
+                                 [=v=]
+                               __\___/_____
+                              /..[  _____  ]
+                             /_  [ [  M /] ]
+                            /../.[ [ M /@] ]
+                           <-->[_[ [M /@/] ]
+                          /../ [.[ [ /@/ ] ]
+     _________________]\ /__/  [_[ [/@/ C] ]
+    <_________________>>0---]  [=\ \@/ C / /
+       ___      ___   ]/000o   /__\ \ C / /
+          \    /              /....\ \_/ /
+       ....\||/....           [___/=\___/
+      .    .  .    .          [...] [...]
+     .      ..      .         [___/ \___]
+     .    0 .. 0    .         <---> <--->
+  /\/\.    .  .    ./\/\      [..]   [..]
+ / / / .../|  |\... \ \ \    _[__]   [__]_
+/ / /       \/       \ \ \  [____>   <____]
+''')
 print(f"{Fore.GREEN}- YELLOW PAGES DATA SCRAPER TOOL")
 print(f"{Fore.RED}- PHANTOM LEGEND")
 print(f'''{Fore.YELLOW}
