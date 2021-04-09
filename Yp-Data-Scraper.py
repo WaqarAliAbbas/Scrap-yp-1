@@ -76,4 +76,4 @@ for page in range(0,60+1):
         if index_list==4:
             index_list=0
         print(f"{Fore.CYAN}\nPROCESSING PLEASE WAIT...")
-            print(Style.RESET_ALL)
+        print(Style.RESET_ALL)
