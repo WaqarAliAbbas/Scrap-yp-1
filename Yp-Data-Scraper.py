@@ -18,7 +18,8 @@ print(f'''{Fore.YELLOW}
 ╚███╔███╔╝██║  ██║╚██████╔╝██║  ██║██║  ██║
  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚══▀▀═╝ ╚═╝  ╚═╝╚═╝  ╚═╝                     
 ''')
-
+print(f"{Fore.RED}           ------------------------------------")
+print(f"{Fore.WHITE}          CERTIFIED INFORMATION SYSTEM SECURITY \n              PROFESSIONAL WAQAR ALI ABBAS")
 print(Style.RESET_ALL)
 # -------- URL Pagination 
 for page in range(0,60+1):
