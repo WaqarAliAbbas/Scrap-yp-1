@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from colorama import Fore,Back,Style
 import os
 os.system("clear")
-print(f"{Fore.WHITE}\n- DEVELOPER WAQAR ALI ABBAS")
+print(f"{Fore.WHITE}\n\n\n\n- DEVELOPER WAQAR ALI ABBAS")
 print(f"{Fore.CYAN}- DEVELOPER CONTACT: +92-3129704496")
 print(f"{Fore.GREEN}- YELLOW PAGES DATA SCRAPER TOOL")
 print(f"{Fore.RED}- PHANTOM LEGEND")
