@@ -3,7 +3,10 @@
 import requests
 from bs4 import BeautifulSoup
 from colorama import Fore,Back,Style
-print(f"{Fore.RED}\n-DEVELOPER CONTACT: +92-3129704496")
+print(f"{Fore.WHITE}\n- DEVELOPER WAQAR ALI ABBAS")
+print(f"{Fore.CYAN}- DEVELOPER CONTACT: +92-3129704496")
+print(f"{Fore.GREEN}- YELLOW PAGES DATA SCRAPER TOOL")
+print(f"{Fore.RED}----- PHANTOM LEGEND -----")
 print(f'''{Fore.YELLOW}
 ██╗    ██╗ █████╗  ██████╗  █████╗ ██████╗ 
 ██║    ██║██╔══██╗██╔═══██╗██╔══██╗██╔══██╗
@@ -12,6 +15,7 @@ print(f'''{Fore.YELLOW}
 ╚███╔███╔╝██║  ██║╚██████╔╝██║  ██║██║  ██║
  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚══▀▀═╝ ╚═╝  ╚═╝╚═╝  ╚═╝                     
 ''')
+print(Style.RESET_ALL)
 # -------- URL Pagination 
 for page in range(0,60+1):
     url=f"https://www.yellowpages.ca/search/si/{page}/Grocery+Stores/Toronto+ON"
