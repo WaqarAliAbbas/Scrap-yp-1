@@ -6,10 +6,10 @@ from bs4 import BeautifulSoup
 from colorama import Fore,Back,Style
 import os
 os.system("clear")
-print(f"{Fore.WHITE}\n\n- DEVELOPER WAQAR ALI ABBAS")
-print(f"{Fore.RED}----> DEVELOPER CONTACT: +92-3129704496 <----")
-print(f'''{Fore.CYAN}
-Fight With Bugs                 |     |
+print(f"{Fore.CYAN}----> DEVELOPER WAQAR ALI ABBAS <----")
+print(f"{Fore.WHITE}----> DEVELOPER CONTACT: +92-3129704496 <----")
+print(f'''{Fore.YELLOW}
+Fight With Bugs-                |     |
                                 \\_V_//
                                 \/=|=\/
                                  [=v=]
@@ -18,7 +18,7 @@ Fight With Bugs                 |     |
                              /_  [ [  M /] ]
                             /../.[ [ M /@] ]
                            <-->[_[ [M /@/] ]
-                          /../ [.[ [ /@/ ] ]
+        KING IS HERE      /../ [.[ [ /@/ ] ]
      _________________]\ /__/  [_[ [/@/ C] ]
     <_________________>>0---]  [=\ \@/ C / /
        ___      ___   ]/000o   /__\ \ C / /
