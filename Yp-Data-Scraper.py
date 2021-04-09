@@ -6,31 +6,8 @@ from bs4 import BeautifulSoup
 from colorama import Fore,Back,Style
 import os
 os.system("clear")
-print(f"{Fore.CYAN}----> DEVELOPER WAQAR ALI ABBAS <----")
+print(f"{Fore.CYAN}\n\n\n----> DEVELOPER WAQAR ALI ABBAS <----")
 print(f"{Fore.WHITE}----> DEVELOPER CONTACT: +92-3129704496 <----")
-print(f'''{Fore.YELLOW}
-Fight With Bugs-                |     |
-                                \\_V_//
-                                \/=|=\/
-                                 [=v=]
-                               __\___/_____
-                              /..[  _____  ]
-                             /_  [ [  M /] ]
-                            /../.[ [ M /@] ]
-                           <-->[_[ [M /@/] ]
-        KING IS HERE      /../ [.[ [ /@/ ] ]
-     _________________]\ /__/  [_[ [/@/ C] ]
-    <_________________>>0---]  [=\ \@/ C / /
-       ___      ___   ]/000o   /__\ \ C / /
-          \    /              /....\ \_/ /
-       ....\||/....           [___/=\___/
-      .    .  .    .          [...] [...]
-     .      ..      .         [___/ \___]
-     .    0 .. 0    .         <---> <--->
-  /\/\.    .  .    ./\/\      [..]   [..]
- / / / .../|  |\... \ \ \    _[__]   [__]_
-/ / /       \/       \ \ \  [____>   <____]
-''')
 print(f"{Fore.GREEN}- \nYELLOW PAGES DATA SCRAPER TOOL")
 print(f"{Fore.RED}- PHANTOM LEGEND")
 print(f'''{Fore.YELLOW}
@@ -40,6 +17,29 @@ print(f'''{Fore.YELLOW}
 ██║███╗██║██╔══██║██║▄▄ ██║██╔══██║██╔══██╗
 ╚███╔███╔╝██║  ██║╚██████╔╝██║  ██║██║  ██║
  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚══▀▀═╝ ╚═╝  ╚═╝╚═╝  ╚═╝                     
+''')
+print(f'''{Fore.YELLOW}
+Fight With Bugs-                |     |
+                                \\_W_//
+                                \/=|=\/
+                                 [=v=]
+                               __\___/_____
+                              /..[  _____  ]
+                             /_  [ [  W /] ]
+                            /../.[ [ A /@] ]
+                           <-->[_[ [Q /@/] ]
+        KING IS HERE      /../ [.[ [ /@/ ] ]
+     _________________]\ /__/  [_[ [/@/ A] ]
+    <_________________>>0---]  [=\ \@/ R / /
+       ___      ___   ]/000o   /__\ \ / / /
+          \    /              /....\ \_/ /
+       ....\||/....           [___/=\___/
+      .    .  .    .          [...] [...]
+     .      ..      .         [___/ \___]
+     .    0 .. 0    .         <---> <--->
+  /\/\.    .  .    ./\/\      [..]   [..]
+ / / / .../|  |\... \ \ \    _[__]   [__]_
+/ / /       \/       \ \ \  [____>   <____]
 ''')
 print(f"{Fore.RED}           ------------------------------------")
 print(f"{Fore.WHITE}          CERTIFIED INFORMATION SYSTEM SECURITY \n              PROFESSIONAL WAQAR ALI ABBAS")
