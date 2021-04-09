@@ -6,7 +6,7 @@ from colorama import Fore,Back,Style
 print(f"{Fore.WHITE}\n- DEVELOPER WAQAR ALI ABBAS")
 print(f"{Fore.CYAN}- DEVELOPER CONTACT: +92-3129704496")
 print(f"{Fore.GREEN}- YELLOW PAGES DATA SCRAPER TOOL")
-print(f"{Fore.RED}----- PHANTOM LEGEND -----")
+print(f"{Fore.RED}- PHANTOM LEGEND")
 print(f'''{Fore.YELLOW}
 ██╗    ██╗ █████╗  ██████╗  █████╗ ██████╗ 
 ██║    ██║██╔══██╗██╔═══██╗██╔══██╗██╔══██╗
@@ -15,6 +15,7 @@ print(f'''{Fore.YELLOW}
 ╚███╔███╔╝██║  ██║╚██████╔╝██║  ██║██║  ██║
  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚══▀▀═╝ ╚═╝  ╚═╝╚═╝  ╚═╝                     
 ''')
+
 print(Style.RESET_ALL)
 # -------- URL Pagination 
 for page in range(0,60+1):
@@ -32,25 +33,23 @@ for page in range(0,60+1):
     for text in spans:
         if index_list==0:
             var2=f"{list_[index_list]}: {text.string}"
-            print(var2)
             with open("Address.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var2}\n")
         if index_list==1:
             var3=f"{list_[index_list]}: {text.string}"
-            print(var3)
             with open("City.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var3}\n")
         if index_list==2:
             var4=f"{list_[index_list]}: {text.string}"
-            print(var4)
             with open("State.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var4}\n")
         if index_list==3:
             var5=f"{list_[index_list]}: {text.string}"
-            print(var5)
             with open("Postal.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var5}\n")
         index_list+=1
         if index_list==4:
             index_list=0
-    print(f"Site Pages: ==> {url}")
+    print(f"Pages: ==> {url}")
+    print(f"{Fore.YELLOW}==> DEVELOPER WAQAR ALI ABBAS <==")
+    print(Style.RESET_ALL)
