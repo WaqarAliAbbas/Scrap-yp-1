@@ -3,3 +3,4 @@
 # Please Install these commands before execute this program!
 # pip install requests
 # pip install bs4
+# pip install colorama
