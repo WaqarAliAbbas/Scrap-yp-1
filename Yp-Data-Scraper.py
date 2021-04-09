@@ -2,6 +2,16 @@
 # yellowpages.ca Data scraper Tool
 import requests
 from bs4 import BeautifulSoup
+from colorama import Fore,Back,Style
+print(f"{Fore.RED}\n-DEVELOPER CONTACT: +92-3129704496")
+print(f'''{Fore.YELLOW}
+██╗    ██╗ █████╗  ██████╗  █████╗ ██████╗ 
+██║    ██║██╔══██╗██╔═══██╗██╔══██╗██╔══██╗
+██║ █╗ ██║███████║██║   ██║███████║██████╔╝
+██║███╗██║██╔══██║██║▄▄ ██║██╔══██║██╔══██╗
+╚███╔███╔╝██║  ██║╚██████╔╝██║  ██║██║  ██║
+ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚══▀▀═╝ ╚═╝  ╚═╝╚═╝  ╚═╝                     
+''')
 # -------- URL Pagination 
 for page in range(0,60+1):
     url=f"https://www.yellowpages.ca/search/si/{page}/Grocery+Stores/Toronto+ON"
