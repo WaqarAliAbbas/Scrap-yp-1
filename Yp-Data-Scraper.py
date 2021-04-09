@@ -58,6 +58,6 @@ for page in range(0,60+1):
         index_list+=1
         if index_list==4:
             index_list=0
-    print({url)
+    print(url)
     print(f"{Fore.YELLOW}=====> DEVELOPER WAQAR ALI ABBAS <=====")
     print(Style.RESET_ALL)
