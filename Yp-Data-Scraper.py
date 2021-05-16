@@ -61,33 +61,25 @@ for page in range(0,60+1):
         if index_list==0:
             var2=f"{list_[index_list]}: {text.string}"
             print(f"{Fore.GREEN}DATA HAVE BEEN STORED IN  Address.txt FILE...")
-            print(Style.RESET_ALL)
             time.sleep(0.2)
-            print(Style.RESET_ALL)
             with open("Address.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var2}\n")
         if index_list==1:
             var3=f"{list_[index_list]}: {text.string}"
             print(f"{Fore.GREEN}DATA HAVE BEEN STORED IN  City.txt FILE...")
-            print(Style.RESET_ALL)
             time.sleep(0.2)
-            print(Style.RESET_ALL)
             with open("City.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var3}\n")
         if index_list==2:
             var4=f"{list_[index_list]}: {text.string}"
             print(f"{Fore.GREEN}DATA HAVE BEEN STORED IN  State.txt FILE...")
-            print(Style.RESET_ALL)
             time.sleep(0.2)
-            print(Style.RESET_ALL)
             with open("State.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var4}\n")
         if index_list==3:
             var5=f"{list_[index_list]}: {text.string}"
             print(f"{Fore.GREEN}DATA HAVE BEEN STORED IN  Postal.txt FILE...")
-            print(Style.RESET_ALL)
             time.sleep(0.2)
-            print(Style.RESET_ALL)
             with open("Postal.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var5}\n")
         index_list+=1
