@@ -63,7 +63,6 @@ for page in range(0,60+1):
             print(f"{Fore.GREEN}DATA HAVE BEEN STORED IN  Address.txt FILE...")
             print(Style.RESET_ALL)
             time.sleep(0.2)
-            print(url)
             print(Style.RESET_ALL)
             with open("Address.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var2}\n")
@@ -72,7 +71,6 @@ for page in range(0,60+1):
             print(f"{Fore.GREEN}DATA HAVE BEEN STORED IN  City.txt FILE...")
             print(Style.RESET_ALL)
             time.sleep(0.2)
-            print(url)
             print(Style.RESET_ALL)
             with open("City.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var3}\n")
@@ -81,7 +79,6 @@ for page in range(0,60+1):
             print(f"{Fore.GREEN}DATA HAVE BEEN STORED IN  State.txt FILE...")
             print(Style.RESET_ALL)
             time.sleep(0.2)
-            print(url)
             print(Style.RESET_ALL)
             with open("State.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var4}\n")
@@ -90,7 +87,6 @@ for page in range(0,60+1):
             print(f"{Fore.GREEN}DATA HAVE BEEN STORED IN  Postal.txt FILE...")
             print(Style.RESET_ALL)
             time.sleep(0.2)
-            print(url)
             print(Style.RESET_ALL)
             with open("Postal.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var5}\n")
