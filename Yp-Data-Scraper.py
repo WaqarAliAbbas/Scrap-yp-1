@@ -64,7 +64,6 @@ for page in range(0,60+1):
             print(Style.RESET_ALL)
             time.sleep(0.2)
             print(url)
-            print(f"{Fore.YELLOW}\n=================> DEVELOPER WAQAR ALI ABBAS <=================")
             print(Style.RESET_ALL)
             with open("Address.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var2}\n")
@@ -74,7 +73,6 @@ for page in range(0,60+1):
             print(Style.RESET_ALL)
             time.sleep(0.2)
             print(url)
-            print(f"{Fore.YELLOW}\n=================> DEVELOPER WAQAR ALI ABBAS <=================")
             print(Style.RESET_ALL)
             with open("City.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var3}\n")
@@ -84,7 +82,6 @@ for page in range(0,60+1):
             print(Style.RESET_ALL)
             time.sleep(0.2)
             print(url)
-            print(f"{Fore.YELLOW}\n=================> DEVELOPER WAQAR ALI ABBAS <=================")
             print(Style.RESET_ALL)
             with open("State.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var4}\n")
@@ -94,7 +91,6 @@ for page in range(0,60+1):
             print(Style.RESET_ALL)
             time.sleep(0.2)
             print(url)
-            print(f"{Fore.YELLOW}\n=================> DEVELOPER WAQAR ALI ABBAS <=================")
             print(Style.RESET_ALL)
             with open("Postal.txt","a",encoding="UTF-8") as f:
                 f.write(f"{var5}\n")
