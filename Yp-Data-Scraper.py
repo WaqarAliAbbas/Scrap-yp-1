@@ -7,7 +7,6 @@ from colorama import Fore,Back,Style
 import os
 os.system("clear")
 print(f"{Fore.CYAN}\n\n----> DEVELOPER WAQAR ALI ABBAS")
-print(f"{Fore.WHITE}----> DEVELOPER CONTACT: +92-3129704496")
 print(f"{Fore.GREEN}----> YELLOW PAGES DATA SCRAPER TOOL")
 print(f"{Fore.RED}----> PHANTOM LEGEND")
 print(f'''{Fore.YELLOW}
